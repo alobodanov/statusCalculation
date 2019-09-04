@@ -1,0 +1,14 @@
+[91mPassed in object was not SomeObject[0m
+Test 1 [92mPASSED[0m	Expected: 0 | Result: 0 | Difference: 0
+Test 2 [92mPASSED[0m	Expected: 122646571 | Result: 122646571 | Difference: 0
+Test 3 [92mPASSED[0m	Expected: 122560171 | Result: 122560171 | Difference: 0
+Test 4 [92mPASSED[0m	Expected: 122516971 | Result: 122516971 | Difference: 0
+Test 5 [92mPASSED[0m	Expected: 216000 | Result: 216000 | Difference: 0
+Test 6 [92mPASSED[0m	Expected: 122732971 | Result: 122732971 | Difference: 0
+Test 7 [92mPASSED[0m	Expected: 122646571 | Result: 122646571 | Difference: 0
+Test 8 [92mPASSED[0m	Expected: 122430571 | Result: 122430571 | Difference: 0
+Test 9 [92mPASSED[0m	Expected: 86400 | Result: 86400 | Difference: 0
+Test 10 [92mPASSED[0m	Expected: 86400 | Result: 86400 | Difference: 0
+Test 11 [92mPASSED[0m	Expected: 122646571 | Result: 122646571 | Difference: 0
+Test 12 [92mPASSED[0m	Expected: 0 | Result: 0 | Difference: 0
+[92mCalculating time for each state was a success[0m
