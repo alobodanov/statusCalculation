@@ -52,3 +52,15 @@ the expected results from the function.
 
 Bonus challenge:  Make your function easily adapt to performing the same
 calculation for the ‘PAUSED’ or ’COMPLETE’ states.
+
+
+
+To run it:
+```
+cd src/
+php -f challenge-runner.php
+```
+
+Result:
+
+![result](img/result.png)
